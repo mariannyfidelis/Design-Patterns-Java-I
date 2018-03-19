@@ -1,4 +1,4 @@
-package modelo;
+package estudo.pratica.padroesprojeto.app.modelo;
 
 public abstract class Imposto {
 

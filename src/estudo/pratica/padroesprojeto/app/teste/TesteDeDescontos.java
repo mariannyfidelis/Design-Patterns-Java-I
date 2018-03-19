@@ -1,8 +1,8 @@
-package teste;
+package estudo.pratica.padroesprojeto.app.teste;
 
-import modelo.Item;
-import modelo.Orcamento;
-import modelo.CalculadorDeDescontos;
+import estudo.pratica.padroesprojeto.app.modelo.CalculadorDeDescontos;
+import estudo.pratica.padroesprojeto.app.modelo.Item;
+import estudo.pratica.padroesprojeto.app.modelo.Orcamento;
 
 public class TesteDeDescontos {
 

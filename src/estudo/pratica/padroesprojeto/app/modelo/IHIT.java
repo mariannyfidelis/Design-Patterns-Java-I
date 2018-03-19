@@ -1,4 +1,4 @@
-package modelo;
+package estudo.pratica.padroesprojeto.app.modelo;
 
 import java.util.ArrayList;
 import java.util.List;

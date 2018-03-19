@@ -1,10 +1,11 @@
-package banco;
+package estudo.pratica.padroesprojeto.app.banco;
 
 import java.time.LocalDate;
 import java.time.Period;
 import java.util.ArrayList;
 import java.util.List;
-import modelo.Conta;
+
+import estudo.pratica.padroesprojeto.app.modelo.Conta;
 
 public class FiltroContaComDataAberturaMesCorrente extends Filtro {
 

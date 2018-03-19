@@ -1,12 +1,12 @@
-package teste;
+package estudo.pratica.padroesprojeto.app.teste;
 
-import modelo.Desconto;
-import modelo.DescontoPorMaisDeCincoItens;
-import modelo.SemDesconto;
-import modelo.DescontoPorMaisDeQuinhentosReais;
-import modelo.Orcamento;
-import modelo.Item;
-import modelo.DescontoPorVendaCasada;
+import estudo.pratica.padroesprojeto.app.modelo.Desconto;
+import estudo.pratica.padroesprojeto.app.modelo.DescontoPorMaisDeCincoItens;
+import estudo.pratica.padroesprojeto.app.modelo.DescontoPorMaisDeQuinhentosReais;
+import estudo.pratica.padroesprojeto.app.modelo.DescontoPorVendaCasada;
+import estudo.pratica.padroesprojeto.app.modelo.Item;
+import estudo.pratica.padroesprojeto.app.modelo.Orcamento;
+import estudo.pratica.padroesprojeto.app.modelo.SemDesconto;
 
 public class TestaCorrente {
 

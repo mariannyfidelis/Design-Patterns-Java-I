@@ -1,8 +1,9 @@
-package metodo;
+package estudo.pratica.padroesprojeto.app.metodo;
 
 import java.util.List;
-import modelo.Conta;
-import modelo.TemplateRelatorio;
+
+import estudo.pratica.padroesprojeto.app.modelo.Conta;
+import estudo.pratica.padroesprojeto.app.modelo.TemplateRelatorio;
 
 public class RelatorioComplexo extends TemplateRelatorio {
 

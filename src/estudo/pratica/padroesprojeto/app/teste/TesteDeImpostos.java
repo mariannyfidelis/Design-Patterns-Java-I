@@ -1,11 +1,11 @@
-package teste;
+package estudo.pratica.padroesprojeto.app.teste;
 
-import modelo.ICMS;
-import modelo.Orcamento;
-import modelo.ISS;
-import modelo.CalculadorDeImpostos;
-import modelo.Imposto;
-import modelo.ImpostoMuitoAlto;
+import estudo.pratica.padroesprojeto.app.modelo.CalculadorDeImpostos;
+import estudo.pratica.padroesprojeto.app.modelo.ICMS;
+import estudo.pratica.padroesprojeto.app.modelo.ISS;
+import estudo.pratica.padroesprojeto.app.modelo.Imposto;
+import estudo.pratica.padroesprojeto.app.modelo.ImpostoMuitoAlto;
+import estudo.pratica.padroesprojeto.app.modelo.Orcamento;
 
 public class TesteDeImpostos {
 
